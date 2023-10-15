@@ -272,7 +272,7 @@
               },
               {
                   "name": "Seguin",
-                  "state": Texas",
+                  "state": "Texas",
                   "abbreviation": "SEG",
                   "rival": ["DPHS"],
                   "rivalryNames": {},
