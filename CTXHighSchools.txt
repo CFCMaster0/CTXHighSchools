@@ -1,0 +1,1224 @@
+{
+  "promotionRoutes": {
+    "SHL": "CAP",
+    "SGL": "BRC",
+    "CYL": "GUAD",
+    "NSDE": "NET",
+    "BRAZ": "FTC",
+    "MIL": "ALA"
+  },
+  "baseYear": 2023,
+  "relegationRoutes": {
+    "CAP": "SHL",
+    "BRC": "SGL",
+    "GUAD": "CYL",
+    "NET": "NSDE",
+    "FTC": "BRAZ",
+    "ALA": "MIL"
+  },
+  "conferences": [
+    {
+      "confFullName": "Capital",
+      "confPrestige": "95",
+      "confName": "CAP",
+      "confTeams": [
+        {
+          "name": "Akins",
+          "state": "Texas",
+          "abbreviation": "AKHS",
+          "rival": ["JBHS"],
+          "rivalryNames": {},
+          "prestige": "95",
+          "hexColor": "#"
+        },
+        {
+          "name": "Austin",
+          "state": "Texas",
+          "abbreviation": "AHS",
+          "rival": ["WBT"],
+          "rivalryNames": {},
+          "prestige": "85",
+          "hexColor": "#9D2235"
+        },
+        {
+            "name": "Bowie",
+            "state": "Texas",
+            "abbreviation": "JBHS",
+            "rival": ["AKHS"],
+            "rivalryNames": {},
+            "prestige": "90",
+            "hexColor": "#0C2340"
+        },
+        {
+            "name": "Buda Johnson",
+            "state": "Texas",
+            "abbreviation": "BJHS",
+            "rival": ["DSHS"],
+            "rivalryNames": {},
+            "prestige": "80",
+            "hexColor": "#0021A5"
+        },
+        {
+            "name": "Crockett",
+            "state": "Texas",
+            "abbreviation": "DCHS",
+            "rival": ["ESHS"],
+            "rivalryNames": {},
+            "prestige": "95",
+            "hexColor": "#BA0C2F"
+        },
+        {
+            "name": "Dripping Springs",
+            "state": "Texas",
+            "abbreviation": "DSHS",
+            "rival": ["BJHS"],
+            "rivalryNames": {},
+            "prestige": "90",
+            "hexColor": "#461D7C"
+        },
+        {
+            "name": "Eastside",
+            "state": "Texas",
+            "abbreviation": "ESHS",
+            "rival": ["DCHS"],
+            "rivalryNames": {},
+            "prestige": "88",
+            "hexColor": "#841617"
+        },
+        {
+            "name": "Lake Travis",
+            "state": "Texas",
+            "abbreviation": "LTHS",
+            "rival": ["WLHS"],
+            "rivalryNames": {},
+            "prestige": "90",
+            "hexColor": "#FF8200"
+        },
+        {
+            "name": "Travis",
+            "state": "Texas",
+            "abbreviation": "WBT",
+            "rival": ["AHS"],
+            "rivalryNames": {},
+            "prestige": "85",
+            "hexColor": "#BF5700"
+        },
+        {
+            "name": "Westlake",
+            "state": "Texas",
+            "abbreviation": "WLHS",
+            "rival": ["LTHS"],
+            "rivalryNames": {},
+            "prestige": "80",
+            "hexColor": "#500000"
+        }
+      ]
+    },
+    {
+        "confFullName": "Brushy Creek",
+        "confPrestige": "95",
+        "confName": "BRC",
+        "confTeams": [
+            {
+              "name": "Cedar Park",
+              "state": "Texas",
+              "abbreviation": "CPHS",
+              "rival": ["VHS"],
+              "rivalryNames": {},
+              "prestige": "79",
+              "hexColor": "#13294B"
+          },  
+          {
+                "name": "Cedar Ridge",
+                "state": "Texas",
+                "abbreviation": "CRHS",
+                "rival": ["VRHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#990000"
+              },
+              {
+                  "name": "Manor",
+                  "state": "Texas",
+                  "abbreviation": "MAN",
+                  "rival": ["MTHS"],
+                  "rivalryNames": {},
+                  "prestige": "95",
+                  "hexColor": "#00274C"
+              },
+              {
+                  "name": "Manor New Tech",
+                  "state": "Texas",
+                  "abbreviation": "MTHS",
+                  "rival": ["MAN"],
+                  "rivalryNames": {},
+                  "prestige": "89", 
+                  "hexColor": "#18453B"
+              },
+              {
+                  "name": "McNeil",
+                  "state": "Texas",
+                  "abbreviation": "MCNE",
+                  "rival": ["SPHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#7A0019"
+              },
+              {
+                  "name": "Round Rock",
+                  "state": "Texas",
+                  "abbreviation": "ROCK",
+                  "rival": ["WWHS"],
+                  "rivalryNames": {},
+                  "prestige": "75",
+                  "hexColor": "#4E2A84"
+              },
+              {
+                  "name": "Stony Point",
+                  "state": "Texas",
+                  "abbreviation": "SPHS",
+                  "rival": ["MCNE"],
+                  "rivalryNames": {},
+                  "prestige": "95",
+                  "hexColor": "#BB0000"
+              },
+              {
+                  "name": "Vandegrift",
+                  "state": "Texas",
+                  "abbreviation": "VHS",
+                  "rival": ["CPHS"],
+                  "rivalryNames": {},
+                  "prestige": "85",
+                  "hexColor": "#041E42"
+              },
+              {
+                  "name": "Vista Ridge",
+                  "state": "Texas",
+                  "abbreviation": "VRHS",
+                  "rival": ["CRHS"],
+                  "rivalryNames": {},
+                  "prestige": "75",
+                  "hexColor": "#CEB888"
+              },
+              {
+                  "name": "Westwood",
+                  "state": "Texas",
+                  "abbreviation": "WWHS",
+                  "rival": ["ROCK"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#C5050C"
+              }
+        ]
+    },
+    {
+        "confFullName": "Guadalupe",
+        "confPrestige": "90",
+        "confName": "GUAD",
+        "confTeams": [
+            {
+                "name": "Boerne",
+                "state": "Texas",
+                "abbreviation": "BHS",
+                "rival": ["BCHS"],
+                "rivalryNames": {},
+                "prestige": "95",
+                "hexColor": "#F56600"
+              },
+              {
+                  "name": "Champion",
+                  "state": "Texas",
+                  "abbreviation": "BCHS",
+                  "rival": ["BHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#003087"
+              },
+              {
+                  "name": "Clemens",
+                  "state": "Texas",
+                  "abbreviation": "CLEM",
+                  "rival": ["STL"],
+                  "rivalryNames": {},
+                  "prestige": "85",
+                  "hexColor": "#782F40"
+              },
+              {
+                  "name": "Davenport",
+                  "state": "Texas",
+                  "abbreviation": "DPHS",
+                  "rival": ["SEG"],
+                  "rivalryNames": {},
+                  "prestige": "75",
+                  "hexColor": "#B3A369"
+              },
+              {
+                  "name": "Judson",
+                  "state": "Texas",
+                  "abbreviation": "JUD",
+                  "rival": ["VMHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#F47321"
+              },
+              {
+                  "name": "Pieper",
+                  "state": "Texas",
+                  "abbreviation": "PHS",
+                  "rival": ["SVHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#7BAFD4"
+              },
+              {
+                  "name": "Seguin",
+                  "state": Texas",
+                  "abbreviation": "SEG",
+                  "rival": ["DPHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#CC0000"
+              },
+              {
+                  "name": "Smithson Valley",
+                  "state": "Texas",
+                  "abbreviation": "SVHS",
+                  "rival": ["PHS"],
+                  "rivalryNames": {},
+                  "prestige": "77",
+                  "hexColor": "#232D4B"
+              },
+              {
+                  "name": "Steele",
+                  "state": "Texas",
+                  "abbreviation": "STL",
+                  "rival": ["CLEM"],
+                  "rivalryNames": {},
+                  "prestige": "75", 
+                  "hexColor": "#630031"
+              },
+              {
+                  "name": "Veterans Memorial",
+                  "state": "Texas",
+                  "abbreviation": "VMHS",
+                  "rival": ["JUD"],
+                  "rivalryNames": {},
+                  "prestige": "75",
+                  "hexColor": "#9E7E38"
+              }
+        ]
+    },
+    {
+        "confFullName": "North East",
+        "confPrestige": "90",
+        "confName": "NET",
+        "confTeams": [
+            {
+                "name": "Churchill",
+                "state": "Texas",
+                "abbreviation": "WCHS",
+                "rival": ["LEE"],
+                "rivalryNames": {},
+                "prestige": "85",
+                "hexColor": "#154734"
+              },
+              {
+                  "name": "Clark",
+                  "state": "Texas",
+                  "abbreviation": "TCHS",
+                  "rival": ["MRSH"],
+                  "rivalryNames": {},
+                  "prestige": "85",
+                  "hexColor": "#E00122"
+              },
+              {
+                  "name": "LEE",
+                  "state": "Texas",
+                  "abbreviation": "LEE",
+                  "rival": ["WCHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#C8102E"
+              },
+              {
+                  "name": "MacArthur",
+                  "state": "Texas",
+                  "abbreviation": "MAC",
+                  "rival": ["WAG"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#C8102E"
+              },
+              {
+                  "name": "Madison",
+                  "state": "Texas",
+                  "abbreviation": "JMHS",
+                  "rival": ["TRHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#0051BA"
+              },
+              {
+                  "name": "Marshall",
+                  "state": "Texas",
+                  "abbreviation": "MRSH",
+                  "rival": ["TCHS"],
+                  "rivalryNames": {},
+                  "prestige": "80",
+                  "hexColor": "#512888"
+              },
+              {
+                  "name": "Regan",
+                  "state": "Texas",
+                  "abbreviation": "RRHS",
+                  "rival": ["SAJN"],
+                  "rivalryNames": {},
+                  "prestige": "85",
+                  "hexColor": "#FF7300"
+              },
+              {
+                  "name": "Roosevelt",
+                  "state": "Texas",
+                  "abbreviation": "TRHS",
+                  "rival": ["JMHS"],
+                  "rivalryNames": {},
+                  "prestige": "90",
+                  "hexColor": "#4D1979"
+              },
+              {
+                  "name": "SA Johnson",
+                  "state": "Texas",
+                  "abbreviation": "SAJN",
+                  "rival": ["RRHS"],
+                  "rivalryNames": {},
+                  "prestige": "85",
+                  "hexColor": "#CC0000"
+              },
+              {
+                  "name": "Wagner",
+                  "state": "Texas",
+                  "abbreviation": "WAG",
+                  "rival": ["MAC"],
+                  "rivalryNames": {},
+                  "prestige": "78",
+                  "hexColor": "#002855"
+              }
+        ]
+    },
+    {
+        "confFullName": "Ft. Cavazos",
+        "confPrestige": "85",
+        "confName": "FTC",
+        "confTeams": [
+            {
+                "name": "Belton",
+                "state": "Texas",
+                "abbreviation": "BELT",
+                "rival": ["LBHS"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#003262"
+              },
+              {
+                "name": "Chaparral",
+                "state": "Texas",
+                "abbreviation": "KCHS",
+                "rival": ["HHHS"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#CFB87C"
+              },
+              {
+                "name": "Copperas Cove",
+                "state": "Texas",
+                "abbreviation": "COVE",
+                "rival": ["KSHS"],
+                "rivalryNames": {},
+                "prestige": "90",
+                "hexColor": "#154733"
+              },
+              {
+                "name": "Ellison",
+                "state": "Texas",
+                "abbreviation": "KEHS",
+                "rival": ["KHS"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#DC4405"
+              },
+              {
+                "name": "Harker Heights",
+                "state": "Texas",
+                "abbreviation": "HHHS",
+                "rival": ["KCHS"],
+                "rivalryNames": {},
+                "prestige": "85",
+                "hexColor": "#8C1515"
+              },
+              {
+                "name": "Killeen",
+                "state": "Texas",
+                "abbreviation": "KHS",
+                "rival": ["KEHS"],
+                "rivalryNames": {},
+                "prestige": "90",
+                "hexColor": "#2D68C4"
+              },
+              {
+                "name": "Lake Belton",
+                "state": "Texas",
+                "abbreviation": "LBHS",
+                "rival": ["BELT"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#CC0000"
+              },
+              {
+                "name": "Midway",
+                "state": "Texas",
+                "abbreviation": "MID",
+                "rival": ["TEMP"],
+                "rivalryNames": {},
+                "prestige": "85",
+                "hexColor": "#990000"
+              },
+              {
+                "name": "Shoemaker",
+                "state": "Texas",
+                "abbreviation": "KSHS",
+                "rival": ["COVE"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#4B2E83"
+              },
+              {
+                "name": "Temple",
+                "state": "Texas",
+                "abbreviation": "TEMP",
+                "rival": ["MID"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#981E32"
+              }
+        ]
+    },
+    {
+        "confFullName": "Alamo",
+        "confPrestige": "85",
+        "confName": "ALA",
+        "confTeams": [
+            {
+                "name": "Alamo Heights",
+                "state": "Texas",
+                "abbreviation": "AHHS",
+                "rival": ["TEHS"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#003087"
+              },
+              {
+                "name": "Brackenrigde",
+                "state": "Texas",
+                "abbreviation": "GWB",
+                "rival": ["BANK"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#CC0033"
+              },
+              {
+                "name": "Burbank",
+                "state": "Texas",
+                "abbreviation": "BANK",
+                "rival": ["GWB"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#8C1D40"
+              },
+              {
+                "name": "Edison",
+                "state": "Texas",
+                "abbreviation": "TEHS",
+                "rival": ["AHHS"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#002E5D"
+              },
+              {
+                "name": "Highlands",
+                "state": "Texas",
+                "abbreviation": "HIGH",
+                "rival": ["SHHS"],
+                "rivalryNames": {},
+                "prestige": "85",
+                "hexColor": "#FFCD00"
+              },
+              {
+                "name": "Houston",
+                "state": "Texas",
+                "abbreviation": "SHHS",
+                "rival": ["HIGH"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#660000"
+              },
+              {
+                "name": "Jefferson",
+                "state": "Texas",
+                "abbreviation": "TJHS",
+                "rival": ["SLHS"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#000000"
+              },
+              {
+                "name": "Kennedy",
+                "state": "Texas",
+                "abbreviation": "JFK",
+                "rival": ["MEMO"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#E41C38"
+              },
+              {
+                "name": "Lanier",
+                "state": "Texas",
+                "abbreviation": "SLHS",
+                "rival": ["TJHS"],
+                "rivalryNames": {},
+                "prestige": "85",
+                "hexColor": "#CE1126"
+              },
+              {
+                "name": "Memorial",
+                "state": "Texas",
+                "abbreviation": "MEMO",
+                "rival": ["JFK"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#866D4B"
+              }
+        ]
+    },
+    {
+        "confFullName": "Silicon Hills",
+        "confPrestige": "70",
+        "confName": "SHL",
+        "confTeams": [
+            {
+                "name": "Anderson",
+                "state": "Texas",
+                "abbreviation": "AND",
+                "rival": ["NHS"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#222222"
+              },
+              {
+                "name": "Austin Connally",
+                "state": "Texas"
+                "abbreviation": "ACHS",
+                "rival": ["PFHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#CC092F"
+              },
+              {
+                "name": "Austin LBJ",
+                "state": "Texas",
+                "abbreviation": "LBJ",
+                "rival": ["LASA"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#006F71"
+              },
+              {
+                "name": "Hendrickson",
+                "state": "Texas",
+                "abbreviation": "PHHS",
+                "rival": ["PWHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#011E41"
+              },
+              {
+                "name": "LASA",
+                "state": "Texas",
+                "abbreviation": "LASA",
+                "rival": ["LBJ"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#0039A6"
+              },
+              {
+                "name": "McCallum",
+                "state": "Texas",
+                "abbreviation": "MCCA",
+                "rival": ["NEHS"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#CE181E"
+              },
+              {
+                "name": "Navarro",
+                "state": "Texas",
+                "abbreviation": "NHS",
+                "rival": ["AND"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#840029"
+              },
+              {
+                "name": "Northeast",
+                "state": "Texas",
+                "abbreviation": "NEHS",
+                "rival": ["MCCA"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#00205B"
+              },
+              {
+                "name": "Pflugerville",
+                "state": "Texas",
+                "abbreviation": "PFHS",
+                "rival": ["ACHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#FFAB00"
+              },
+              {
+                "name": "Wiess",
+                "state": "Texas",
+                "abbreviation": "PWHS",
+                "rival": ["PHHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#8A2432"
+              }
+        ]
+    },
+    {
+        "confFullName": "San Gabriel",
+        "confPrestige": "65",
+        "confName": "SGL",
+        "confTeams": [
+            {
+                "name": "Del Valle",
+                "state": "Texas",
+                "abbreviation": "DVHS",
+                "rival": ["EHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#041E42"
+              },
+              {
+                "name": "East View",
+                "state": "Texas",
+                "abbreviation": "EVHS",
+                "rival": ["GHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#BA0C2F"
+              },
+              {
+                "name": "Elgin",
+                "state": "Texas",
+                "abbreviation": "EHS",
+                "rival": ["DVHS"],
+                "rivalryNames": {},
+                "prestige": "60",
+                "hexColor": "#FE5000"
+              },
+              {
+                "name": "Georgetown",
+                "state": "Texas",
+                "abbreviation": "GHS",
+                "rival": ["EVHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#6A0032"
+              },
+              {
+                "name": "Glenn",
+                "state": "Texas",
+                "abbreviation": "TGHS",
+                "rival": ["LHHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#006633"
+              },
+              {
+                "name": "Hutto",
+                "state": "Texas",
+                "abbreviation": "HUTT",
+                "rival": ["TAY"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#002664"
+              },
+              {
+                "name": "Leander",
+                "state": "Texas",
+                "abbreviation": "LEAN",
+                "rival": ["ROU"],
+                "rivalryNames": {},
+                "prestige": "60",
+                "hexColor": "#B61E2E"
+              },
+              {
+                "name": "Liberty Hill",
+                "state": "Texas",
+                "abbreviation": "LHHS",
+                "rival": ["TGHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#00694E"
+              },
+              {
+                "name": "Rouse",
+                "state": "Texas",
+                "abbreviation": "ROU",
+                "rival": ["LEAN"],
+                "rivalryNames": {},
+                "prestige": "60",
+                "hexColor": "#15397F"
+              },
+              {
+                "name": "Taylor",
+                "state": "Texas",
+                "abbreviation": "TAY",
+                "rival": ["HUTT"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#6C4023"
+              }
+        ]
+    },
+    {
+        "confFullName": "Canyon Lake",
+        "confPrestige": "80",
+        "confName": "CYL",
+        "confTeams": [
+            {
+                "name": "Bastrop",
+                "state": "Texas",
+                "abbreviation": "BAST",
+                "rival": ["CCHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#D4BF91"
+              },
+              {
+                "name": "Canyon",
+                "state": "Texas",
+                "abbreviation": "CAN",
+                "rival": ["NBHS"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#98002E"
+              },
+              {
+                "name": "Canyon Lake",
+                "state": "Texas",
+                "abbreviation": "CLHS",
+                "rival": ["WIM"],
+                "rivalryNames": {},
+                "prestige": "76",
+                "hexColor": "#BA9B37"
+              },
+              {
+                "name": "Cedar Creek",
+                "state": "Texas",
+                "abbreviation": "CCHS",
+                "rival": ["BAST"],
+                "rivalryNames": {},
+                "prestige": "85",
+                "hexColor": "#0033A0"
+              },
+              {
+                "name": "Hays",
+                "state": "Texas",
+                "abbreviation": "HAYS",
+                "rival": ["LEH"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#AD0000"
+              },
+              {
+                "name": "Lehman",
+                "state": "Texas",
+                "abbreviation": "LEH",
+                "rival": ["HAYS"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#E03A3E"
+              },
+              {
+                "name": "Lockhart",
+                "state": "Texas",
+                "abbreviation": "LOCK",
+                "rival": ["SMHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#00205B"
+              },
+              {
+                "name": "New Braunfels",
+                "state": "Texas",
+                "abbreviation": "NBHS",
+                "rival": ["CAN"],
+                "rivalryNames": {},
+                "prestige": "90",
+                "hexColor": "#0C2340"
+              },
+              {
+                "name": "San Marcos",
+                "state": "Texas",
+                "abbreviation": "SMHS",
+                "rival": ["LOCK"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#003594"
+              },
+              {
+                "name": "Wimberly",
+                "state": "Texas",
+                "abbreviation": "WIM",
+                "rival": ["CLHS"],
+                "rivalryNames": {},
+                "prestige": "80",
+                "hexColor": "#73000A"
+              }
+        ]
+    },
+    {
+        "confFullName": "Northside",
+        "confPrestige": "65",
+        "confName": "NSDE",
+        "confTeams": [
+            {
+                "name": "Brandeis",
+                "state": "Texas",
+                "abbreviation": "BRAN",
+                "rival": ["OCHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#046A38"
+              },
+              {
+                "name": "Brennan",
+                "state": "Texas",
+                "abbreviation": "BREN",
+                "rival": ["TAFT"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#003366"
+              },
+              {
+                "name": "Harlan",
+                "state": "Texas",
+                "abbreviation": "HARL",
+                "rival": ["SOTO"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#081E3F"
+              },
+              {
+                "name": "Holmes",
+                "state": "Texas",
+                "abbreviation": "HOLM",
+                "rival": ["JAY"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#002D62"
+              },
+              {
+                "name": "Jay",
+                "state": "Texas",
+                "abbreviation": "JAY",
+                "rival": ["HOLM"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#002F8B"
+              },
+              {
+                "name": "O'Connor",
+                "state": "Texas",
+                "abbreviation": "OCHS",
+                "rival": ["BRAN"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#00B140"
+              },
+              {
+                "name": "Sotomayor",
+                "state": "Texas",
+                "abbreviation": "SOTO",
+                "rival": ["HARL"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#0066CC"
+              },
+              {
+                "name": "Stevens",
+                "state": "Texas",
+                "abbreviation": "STVN",
+                "rival": ["WAR"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#7C878E"
+              },
+              {
+                "name": "Taft",
+                "state": "Texas",
+                "abbreviation": "TAFT",
+                "rival": ["BREN"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#501214"
+              },
+              {
+                "name": "Warren",
+                "state": "Texas",
+                "abbreviation": "WAR",
+                "rival": ["STVN"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#C60C30"
+              }
+        ]
+    },
+    {
+        "confFullName": "Brazos Valley",
+        "confPrestige": "70",
+        "confName": "BRAZ",
+        "confTeams": [
+            {
+                "name": "A&M Consolidated",
+                "state": "Texas",
+                "abbreviation": "AMCL",
+                "rival": ["CST"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#D64309"
+              },
+              {
+                "name": "Bryan",
+                "state": "Texas",
+                "abbreviation": "BRYN",
+                "rival": ["JRHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#1E4D2B"
+              },
+              {
+                "name": "China Spring",
+                "state": "Texas",
+                "abbreviation": "CSP",
+                "rival": ["LVHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#DB0032"
+              },
+              {
+                "name": "College Station",
+                "state": "Texas",
+                "abbreviation": "CST",
+                "rival": ["AMCL"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#024731"
+              },
+              {
+                "name": "La Vega",
+                "state": "Texas",
+                "abbreviation": "LVHS",
+                "rival": ["CSP"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#003366"
+              },
+              {
+                "name": "Robinson",
+                "state": "Texas",
+                "abbreviation": "RHS",
+                "rival": ["WCHS"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#A6192E"
+              },
+              {
+                "name": "Rudder",
+                "state": "Texas",
+                "abbreviation": "JRHS",
+                "rival": ["BRYN"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#0055A2"
+              },
+              {
+                "name": "University",
+                "state": "Texas",
+                "abbreviation": "UHS",
+                "rival": ["WACO"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#CF0A2C"
+              },
+              {
+                "name": "Waco",
+                "state": "Texas",
+                "abbreviation": "WACO",
+                "rival": ["UHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#00263A"
+              },
+              {
+                "name": "Waco Connally",
+                "state": "Texas",
+                "abbreviation": "WCHS",
+                "rival": ["RHS"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#492F24"
+              }
+        ]
+    },
+    {
+        "confFullName": "Military",
+        "confPrestige": "75",
+        "confName": "MIL",
+        "confTeams": [
+            {
+                "name": "Devine",
+                "state": "Texas",
+                "abbreviation": "DHS",
+                "rival": ["MVHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#592A8A"
+              },
+              {
+                "name": "East Central"
+                "state": "Texas",
+                "abbreviation": "ECHS",
+                "rival": ["SSAN"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#003087"
+              },
+              {
+                "name": "Harlandale"
+                "state": "Texas"
+                "abbreviation": "HDHS",
+                "rival": ["MCCO"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#00853E"
+              },
+              {
+                "name": "Legacy",
+                "state": "Texas",
+                "abbreviation": "LEG",
+                "rival": ["SWHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#00205B"
+              },
+              {
+                "name": "McCollum",
+                "state": "Texas",
+                "abbreviation": "MCCO",
+                "rival": ["HDHS"],
+                "rivalryNames": {},
+                "prestige": "75",
+                "hexColor": "#0033A0"
+              },
+              {
+                "name": "Mendina Valley",
+                "state": "Texas",
+                "abbreviation": "MVHS",
+                "rival": ["DHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#006747"
+              },
+              {
+                "name": "Somerset",
+                "state": "Texas",
+                "abbreviation": "SHS",
+                "rival": ["SSHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#006747"
+              },
+              {
+                "name": "South San",
+                "state": "Texas",
+                "abbreviation": "SSAN",
+                "rival": ["ECHS"],
+                "rivalryNames": {},
+                "prestige": "65",
+                "hexColor": "#002D72"
+              },
+              {
+                "name": "Southside",
+                "state": "Texas",
+                "abbreviation": "SSHS",
+                "rival": ["SHS"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#006341"
+              },
+              {
+                "name": "Southwest",
+                "state": "Texas",
+                "abbreviation": "SWHS",
+                "rival": ["LEG"],
+                "rivalryNames": {},
+                "prestige": "70",
+                "hexColor": "#F15A22"
+              }
+        ]
+    }
+  ],
+  "bowlGames": [
+    "Capital Bowl",
+    "Alamo Bowl",
+    "H-E-B Bowl",
+    "Dell Bowl",
+    "Orange Bowl",
+    "Fiesta Bowl",
+    "Sun Bowl",
+    "Gator Bowl",
+    "Citrus Bowl",
+    "Liberty Bowl",
+    "Independence Bowl",
+    "Holiday Bowl",
+    "Tampa Bay Bowl",
+    "Gauranteed Rate Bowl",
+    "Cheez-It Bowl",
+    "Las Vegas Bowl",
+    "Alamo Bowl",
+    "Idaho Potato Bowl",
+    "Music City Bowl",
+    "Lending Tree Bowl",
+    "New Orleans Bowl",
+    "San Fransisco Bowl",
+    "Hawaii Bowl",
+    "Duke's Mayo Bowl",
+    "Armed Forces Bowl",
+    "Texas Bowl",
+    "Birmingham Bowl",
+    "New Mexico Bowl",
+    "Military Bowl",
+    "Gasparilla Bowl",
+    "Pinstripe Bowl",
+    "First Responder Bowl",
+    "Bahamas Bowl",
+    "Boca Raton Bowl",
+    "Chick-Fil-A Bowl",
+    "Quick Lane Bowl",
+    "TEST BOWL"
+  ]
+}
