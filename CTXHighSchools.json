@@ -2,7 +2,7 @@
   "promotionRoutes": {
     "SHL": "CAP",
     "SGL": "BRC",
-    "CYL": "GUAD",
+    "CYN": "GUAD",
     "NSDE": "NET",
     "BRAZ": "FTC",
     "MIL": "ALA"
@@ -24,7 +24,7 @@
       "confTeams": [
         {
           "name": "Akins",
-          "state": "Texas",
+          "state": "Arkansas",
           "abbreviation": "AKHS",
           "rival": ["JBHS"],
           "rivalryNames": {},
@@ -33,7 +33,7 @@
         },
         {
           "name": "Austin",
-          "state": "Texas",
+          "state": "Arkansas",
           "abbreviation": "AHS",
           "rival": ["WBT"],
           "rivalryNames": {},
@@ -42,7 +42,7 @@
         },
         {
             "name": "Bowie",
-            "state": "Texas",
+            "state": "Arkansas",
             "abbreviation": "JBHS",
             "rival": ["AKHS"],
             "rivalryNames": {},
@@ -60,7 +60,7 @@
         },
         {
             "name": "Crockett",
-            "state": "Texas",
+            "state": "Arkansas",
             "abbreviation": "DCHS",
             "rival": ["ESHS"],
             "rivalryNames": {},
@@ -78,7 +78,7 @@
         },
         {
             "name": "Eastside",
-            "state": "Texas",
+            "state": "Arkansas",
             "abbreviation": "ESHS",
             "rival": ["DCHS"],
             "rivalryNames": {},
@@ -87,7 +87,7 @@
         },
         {
             "name": "Lake Travis",
-            "state": "Texas",
+            "state": "Oklahoma",
             "abbreviation": "LTHS",
             "rival": ["WLHS"],
             "rivalryNames": {},
@@ -96,7 +96,7 @@
         },
         {
             "name": "Travis",
-            "state": "Texas",
+            "state": "Arkansas",
             "abbreviation": "WBT",
             "rival": ["AHS"],
             "rivalryNames": {},
@@ -105,7 +105,7 @@
         },
         {
             "name": "Westlake",
-            "state": "Texas",
+            "state": "Oklahoma",
             "abbreviation": "WLHS",
             "rival": ["LTHS"],
             "rivalryNames": {},
@@ -121,7 +121,7 @@
         "confTeams": [
             {
               "name": "Cedar Park",
-              "state": "Texas",
+              "state": "New Mexico",
               "abbreviation": "CPHS",
               "rival": ["VHS"],
               "rivalryNames": {},
@@ -130,7 +130,7 @@
           },  
           {
                 "name": "Cedar Ridge",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "CRHS",
                 "rival": ["VRHS"],
                 "rivalryNames": {},
@@ -139,7 +139,7 @@
               },
               {
                   "name": "Manor",
-                  "state": "Texas",
+                  "state": "Oklahoma",
                   "abbreviation": "MAN",
                   "rival": ["MTHS"],
                   "rivalryNames": {},
@@ -148,7 +148,7 @@
               },
               {
                   "name": "Manor New Tech",
-                  "state": "Texas",
+                  "state": "Oklahoma",
                   "abbreviation": "MTHS",
                   "rival": ["MAN"],
                   "rivalryNames": {},
@@ -157,7 +157,7 @@
               },
               {
                   "name": "McNeil",
-                  "state": "Texas",
+                  "state": "New Mexico",
                   "abbreviation": "MCNE",
                   "rival": ["SPHS"],
                   "rivalryNames": {},
@@ -166,7 +166,7 @@
               },
               {
                   "name": "Round Rock",
-                  "state": "Texas",
+                  "state": "New Mexico",
                   "abbreviation": "ROCK",
                   "rival": ["WWHS"],
                   "rivalryNames": {},
@@ -175,7 +175,7 @@
               },
               {
                   "name": "Stony Point",
-                  "state": "Texas",
+                  "state": "New Mexico",
                   "abbreviation": "SPHS",
                   "rival": ["MCNE"],
                   "rivalryNames": {},
@@ -184,7 +184,7 @@
               },
               {
                   "name": "Vandegrift",
-                  "state": "Texas",
+                  "state": "New Mexico",
                   "abbreviation": "VHS",
                   "rival": ["CPHS"],
                   "rivalryNames": {},
@@ -193,7 +193,7 @@
               },
               {
                   "name": "Vista Ridge",
-                  "state": "Texas",
+                  "state": "New Mexico",
                   "abbreviation": "VRHS",
                   "rival": ["CRHS"],
                   "rivalryNames": {},
@@ -202,7 +202,7 @@
               },
               {
                   "name": "Westwood",
-                  "state": "Texas",
+                  "state": "New Mexico",
                   "abbreviation": "WWHS",
                   "rival": ["ROCK"],
                   "rivalryNames": {},
@@ -218,7 +218,7 @@
         "confTeams": [
             {
                 "name": "Boerne",
-                "state": "Texas",
+                "state": "Louisiana",
                 "abbreviation": "BHS",
                 "rival": ["BCHS"],
                 "rivalryNames": {},
@@ -227,7 +227,7 @@
               },
               {
                   "name": "Champion",
-                  "state": "Texas",
+                  "state": "Louisiana",
                   "abbreviation": "BCHS",
                   "rival": ["BHS"],
                   "rivalryNames": {},
@@ -236,7 +236,7 @@
               },
               {
                   "name": "Clemens",
-                  "state": "Texas",
+                  "state": "Louisiana",
                   "abbreviation": "CLEM",
                   "rival": ["STL"],
                   "rivalryNames": {},
@@ -245,7 +245,7 @@
               },
               {
                   "name": "Davenport",
-                  "state": "Texas",
+                  "state": "Louisiana",
                   "abbreviation": "DPHS",
                   "rival": ["SEG"],
                   "rivalryNames": {},
@@ -254,7 +254,7 @@
               },
               {
                   "name": "Judson",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "JUD",
                   "rival": ["VMHS"],
                   "rivalryNames": {},
@@ -263,7 +263,7 @@
               },
               {
                   "name": "Pieper",
-                  "state": "Texas",
+                  "state": "Louisana",
                   "abbreviation": "PHS",
                   "rival": ["SVHS"],
                   "rivalryNames": {},
@@ -272,7 +272,7 @@
               },
               {
                   "name": "Seguin",
-                  "state": "Texas",
+                  "state": "Louisiana",
                   "abbreviation": "SEG",
                   "rival": ["DPHS"],
                   "rivalryNames": {},
@@ -281,7 +281,7 @@
               },
               {
                   "name": "Smithson Valley",
-                  "state": "Texas",
+                  "state": "Louisiana",
                   "abbreviation": "SVHS",
                   "rival": ["PHS"],
                   "rivalryNames": {},
@@ -290,7 +290,7 @@
               },
               {
                   "name": "Steele",
-                  "state": "Texas",
+                  "state": "Louisiana",
                   "abbreviation": "STL",
                   "rival": ["CLEM"],
                   "rivalryNames": {},
@@ -299,7 +299,7 @@
               },
               {
                   "name": "Veterans Memorial",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "VMHS",
                   "rival": ["JUD"],
                   "rivalryNames": {},
@@ -315,7 +315,7 @@
         "confTeams": [
             {
                 "name": "Churchill",
-                "state": "Texas",
+                "state": "Alabama",
                 "abbreviation": "WCHS",
                 "rival": ["LEE"],
                 "rivalryNames": {},
@@ -324,7 +324,7 @@
               },
               {
                   "name": "Clark",
-                  "state": "Texas",
+                  "state": "Mississippi",
                   "abbreviation": "TCHS",
                   "rival": ["MRSH"],
                   "rivalryNames": {},
@@ -333,7 +333,7 @@
               },
               {
                   "name": "LEE",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "LEE",
                   "rival": ["WCHS"],
                   "rivalryNames": {},
@@ -342,7 +342,7 @@
               },
               {
                   "name": "MacArthur",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "MAC",
                   "rival": ["WAG"],
                   "rivalryNames": {},
@@ -351,7 +351,7 @@
               },
               {
                   "name": "Madison",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "JMHS",
                   "rival": ["TRHS"],
                   "rivalryNames": {},
@@ -360,7 +360,7 @@
               },
               {
                   "name": "Marshall",
-                  "state": "Texas",
+                  "state": "Mississippi",
                   "abbreviation": "MRSH",
                   "rival": ["TCHS"],
                   "rivalryNames": {},
@@ -369,7 +369,7 @@
               },
               {
                   "name": "Reagan",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "RRHS",
                   "rival": ["SAJN"],
                   "rivalryNames": {},
@@ -378,7 +378,7 @@
               },
               {
                   "name": "Roosevelt",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "TRHS",
                   "rival": ["JMHS"],
                   "rivalryNames": {},
@@ -387,7 +387,7 @@
               },
               {
                   "name": "SA Johnson",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "SAJN",
                   "rival": ["RRHS"],
                   "rivalryNames": {},
@@ -396,7 +396,7 @@
               },
               {
                   "name": "Wagner",
-                  "state": "Texas",
+                  "state": "Alabama",
                   "abbreviation": "WAG",
                   "rival": ["MAC"],
                   "rivalryNames": {},
@@ -412,7 +412,7 @@
         "confTeams": [
             {
                 "name": "Belton",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "BELT",
                 "rival": ["LBHS"],
                 "rivalryNames": {},
@@ -421,7 +421,7 @@
               },
               {
                 "name": "Chaparral",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "KCHS",
                 "rival": ["HHHS"],
                 "rivalryNames": {},
@@ -430,7 +430,7 @@
               },
               {
                 "name": "Copperas Cove",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "COVE",
                 "rival": ["KSHS"],
                 "rivalryNames": {},
@@ -439,7 +439,7 @@
               },
               {
                 "name": "Ellison",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "KEHS",
                 "rival": ["KHS"],
                 "rivalryNames": {},
@@ -448,7 +448,7 @@
               },
               {
                 "name": "Harker Heights",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "HHHS",
                 "rival": ["KCHS"],
                 "rivalryNames": {},
@@ -457,7 +457,7 @@
               },
               {
                 "name": "Killeen",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "KHS",
                 "rival": ["KEHS"],
                 "rivalryNames": {},
@@ -466,7 +466,7 @@
               },
               {
                 "name": "Lake Belton",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "LBHS",
                 "rival": ["BELT"],
                 "rivalryNames": {},
@@ -475,7 +475,7 @@
               },
               {
                 "name": "Midway",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "MID",
                 "rival": ["TEMP"],
                 "rivalryNames": {},
@@ -484,7 +484,7 @@
               },
               {
                 "name": "Shoemaker",
-                "state": "Texas",
+                "state": "Colorado",
                 "abbreviation": "KSHS",
                 "rival": ["COVE"],
                 "rivalryNames": {},
@@ -493,7 +493,7 @@
               },
               {
                 "name": "Temple",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "TEMP",
                 "rival": ["MID"],
                 "rivalryNames": {},
@@ -509,7 +509,7 @@
         "confTeams": [
             {
                 "name": "Alamo Heights",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "AHHS",
                 "rival": ["TEHS"],
                 "rivalryNames": {},
@@ -518,7 +518,7 @@
               },
               {
                 "name": "Brackenrigde",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "GWB",
                 "rival": ["BANK"],
                 "rivalryNames": {},
@@ -527,7 +527,7 @@
               },
               {
                 "name": "Burbank",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "BANK",
                 "rival": ["GWB"],
                 "rivalryNames": {},
@@ -536,7 +536,7 @@
               },
               {
                 "name": "Edison",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "TEHS",
                 "rival": ["AHHS"],
                 "rivalryNames": {},
@@ -545,7 +545,7 @@
               },
               {
                 "name": "Highlands",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "HIGH",
                 "rival": ["SHHS"],
                 "rivalryNames": {},
@@ -554,7 +554,7 @@
               },
               {
                 "name": "Houston",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "SHHS",
                 "rival": ["HIGH"],
                 "rivalryNames": {},
@@ -563,7 +563,7 @@
               },
               {
                 "name": "Jefferson",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "TJHS",
                 "rival": ["SLHS"],
                 "rivalryNames": {},
@@ -572,7 +572,7 @@
               },
               {
                 "name": "Kennedy",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "JFK",
                 "rival": ["MEMO"],
                 "rivalryNames": {},
@@ -581,7 +581,7 @@
               },
               {
                 "name": "Lanier",
-                "state": "Texas",
+                "state": "Georgia",
                 "abbreviation": "SLHS",
                 "rival": ["TJHS"],
                 "rivalryNames": {},
@@ -590,7 +590,7 @@
               },
               {
                 "name": "Memorial",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "MEMO",
                 "rival": ["JFK"],
                 "rivalryNames": {},
@@ -606,7 +606,7 @@
         "confTeams": [
             {
                 "name": "Anderson",
-                "state": "Texas",
+                "state": "Arkansas",
                 "abbreviation": "AND",
                 "rival": ["NHS"],
                 "rivalryNames": {},
@@ -615,7 +615,7 @@
               },
               {
                 "name": "Austin Connally",
-                "state": "Texas"
+                "state": "Oklahoma"
                 "abbreviation": "ACHS",
                 "rival": ["PFHS"],
                 "rivalryNames": {},
@@ -624,7 +624,7 @@
               },
               {
                 "name": "Austin LBJ",
-                "state": "Texas",
+                "state": "Arkansas",
                 "abbreviation": "LBJ",
                 "rival": ["LASA"],
                 "rivalryNames": {},
@@ -633,7 +633,7 @@
               },
               {
                 "name": "Hendrickson",
-                "state": "Texas",
+                "state": "Oklahoma",
                 "abbreviation": "PHHS",
                 "rival": ["PWHS"],
                 "rivalryNames": {},
@@ -642,7 +642,7 @@
               },
               {
                 "name": "LASA",
-                "state": "Texas",
+                "state": "Arkansas",
                 "abbreviation": "LASA",
                 "rival": ["LBJ"],
                 "rivalryNames": {},
@@ -651,7 +651,7 @@
               },
               {
                 "name": "McCallum",
-                "state": "Texas",
+                "state": "Arkansas",
                 "abbreviation": "MCCA",
                 "rival": ["NEHS"],
                 "rivalryNames": {},
@@ -660,7 +660,7 @@
               },
               {
                 "name": "Navarro",
-                "state": "Texas",
+                "state": "Arkansas",
                 "abbreviation": "NHS",
                 "rival": ["AND"],
                 "rivalryNames": {},
@@ -669,7 +669,7 @@
               },
               {
                 "name": "Northeast",
-                "state": "Texas",
+                "state": "Arkansas",
                 "abbreviation": "NEHS",
                 "rival": ["MCCA"],
                 "rivalryNames": {},
@@ -678,7 +678,7 @@
               },
               {
                 "name": "Pflugerville",
-                "state": "Texas",
+                "state": "Oklahoma",
                 "abbreviation": "PFHS",
                 "rival": ["ACHS"],
                 "rivalryNames": {},
@@ -687,7 +687,7 @@
               },
               {
                 "name": "Wiess",
-                "state": "Texas",
+                "state": "Oklahoma",
                 "abbreviation": "PWHS",
                 "rival": ["PHHS"],
                 "rivalryNames": {},
@@ -703,7 +703,7 @@
         "confTeams": [
             {
                 "name": "Del Valle",
-                "state": "Texas",
+                "state": "Oklahoma",
                 "abbreviation": "DVHS",
                 "rival": ["EHS"],
                 "rivalryNames": {},
@@ -712,7 +712,7 @@
               },
               {
                 "name": "East View",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "EVHS",
                 "rival": ["GHS"],
                 "rivalryNames": {},
@@ -730,7 +730,7 @@
               },
               {
                 "name": "Georgetown",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "GHS",
                 "rival": ["EVHS"],
                 "rivalryNames": {},
@@ -739,7 +739,7 @@
               },
               {
                 "name": "Glenn",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "TGHS",
                 "rival": ["LHHS"],
                 "rivalryNames": {},
@@ -748,7 +748,7 @@
               },
               {
                 "name": "Hutto",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "HUTT",
                 "rival": ["TAY"],
                 "rivalryNames": {},
@@ -757,7 +757,7 @@
               },
               {
                 "name": "Leander",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "LEAN",
                 "rival": ["ROU"],
                 "rivalryNames": {},
@@ -766,7 +766,7 @@
               },
               {
                 "name": "Liberty Hill",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "LHHS",
                 "rival": ["TGHS"],
                 "rivalryNames": {},
@@ -775,7 +775,7 @@
               },
               {
                 "name": "Rouse",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "ROU",
                 "rival": ["LEAN"],
                 "rivalryNames": {},
@@ -784,7 +784,7 @@
               },
               {
                 "name": "Taylor",
-                "state": "Texas",
+                "state": "New Mexico",
                 "abbreviation": "TAY",
                 "rival": ["HUTT"],
                 "rivalryNames": {},
@@ -809,7 +809,7 @@
               },
               {
                 "name": "Canyon",
-                "state": "Texas",
+                "state": "Louisiana",
                 "abbreviation": "CAN",
                 "rival": ["NBHS"],
                 "rivalryNames": {},
@@ -818,7 +818,7 @@
               },
               {
                 "name": "Canyon Lake",
-                "state": "Texas",
+                "state": "Louisiana",
                 "abbreviation": "CLHS",
                 "rival": ["WIM"],
                 "rivalryNames": {},
@@ -863,7 +863,7 @@
               },
               {
                 "name": "New Braunfels",
-                "state": "Texas",
+                "state": "Louisiana",
                 "abbreviation": "NBHS",
                 "rival": ["CAN"],
                 "rivalryNames": {},
@@ -897,7 +897,7 @@
         "confTeams": [
             {
                 "name": "Brandeis",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "BRAN",
                 "rival": ["OCHS"],
                 "rivalryNames": {},
@@ -906,7 +906,7 @@
               },
               {
                 "name": "Brennan",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "BREN",
                 "rival": ["TAFT"],
                 "rivalryNames": {},
@@ -915,7 +915,7 @@
               },
               {
                 "name": "Harlan",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "HARL",
                 "rival": ["SOTO"],
                 "rivalryNames": {},
@@ -924,7 +924,7 @@
               },
               {
                 "name": "Holmes",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "HOLM",
                 "rival": ["JAY"],
                 "rivalryNames": {},
@@ -933,7 +933,7 @@
               },
               {
                 "name": "Jay",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "JAY",
                 "rival": ["HOLM"],
                 "rivalryNames": {},
@@ -942,7 +942,7 @@
               },
               {
                 "name": "O'Connor",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "OCHS",
                 "rival": ["BRAN"],
                 "rivalryNames": {},
@@ -951,7 +951,7 @@
               },
               {
                 "name": "Sotomayor",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "SOTO",
                 "rival": ["HARL"],
                 "rivalryNames": {},
@@ -960,7 +960,7 @@
               },
               {
                 "name": "Stevens",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "STVN",
                 "rival": ["WAR"],
                 "rivalryNames": {},
@@ -969,7 +969,7 @@
               },
               {
                 "name": "Taft",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "TAFT",
                 "rival": ["BREN"],
                 "rivalryNames": {},
@@ -978,7 +978,7 @@
               },
               {
                 "name": "Warren",
-                "state": "Texas",
+                "state": "Mississippi",
                 "abbreviation": "WAR",
                 "rival": ["STVN"],
                 "rivalryNames": {},
@@ -994,7 +994,7 @@
         "confTeams": [
             {
                 "name": "A&M Consolidated",
-                "state": "Texas",
+                "state": "Missouri",
                 "abbreviation": "AMCL",
                 "rival": ["CST"],
                 "rivalryNames": {},
@@ -1003,7 +1003,7 @@
               },
               {
                 "name": "Bryan",
-                "state": "Texas",
+                "state": "Missouri",
                 "abbreviation": "BRYN",
                 "rival": ["JRHS"],
                 "rivalryNames": {},
@@ -1012,7 +1012,7 @@
               },
               {
                 "name": "China Spring",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "CSP",
                 "rival": ["LVHS"],
                 "rivalryNames": {},
@@ -1021,7 +1021,7 @@
               },
               {
                 "name": "College Station",
-                "state": "Texas",
+                "state": "Missouri",
                 "abbreviation": "CST",
                 "rival": ["AMCL"],
                 "rivalryNames": {},
@@ -1030,7 +1030,7 @@
               },
               {
                 "name": "La Vega",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "LVHS",
                 "rival": ["CSP"],
                 "rivalryNames": {},
@@ -1039,7 +1039,7 @@
               },
               {
                 "name": "Robinson",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "RHS",
                 "rival": ["WCHS"],
                 "rivalryNames": {},
@@ -1048,7 +1048,7 @@
               },
               {
                 "name": "Rudder",
-                "state": "Texas",
+                "state": "Missouri",
                 "abbreviation": "JRHS",
                 "rival": ["BRYN"],
                 "rivalryNames": {},
@@ -1057,7 +1057,7 @@
               },
               {
                 "name": "University",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "UHS",
                 "rival": ["WACO"],
                 "rivalryNames": {},
@@ -1066,7 +1066,7 @@
               },
               {
                 "name": "Waco",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "WACO",
                 "rival": ["UHS"],
                 "rivalryNames": {},
@@ -1075,7 +1075,7 @@
               },
               {
                 "name": "Waco Connally",
-                "state": "Texas",
+                "state": "Kansas",
                 "abbreviation": "WCHS",
                 "rival": ["RHS"],
                 "rivalryNames": {},
@@ -1091,7 +1091,7 @@
         "confTeams": [
             {
                 "name": "Devine",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "DHS",
                 "rival": ["MVHS"],
                 "rivalryNames": {},
@@ -1100,7 +1100,7 @@
               },
               {
                 "name": "East Central"
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "ECHS",
                 "rival": ["SSAN"],
                 "rivalryNames": {},
@@ -1109,7 +1109,7 @@
               },
               {
                 "name": "Harlandale"
-                "state": "Texas"
+                "state": "Florida"
                 "abbreviation": "HDHS",
                 "rival": ["MCCO"],
                 "rivalryNames": {},
@@ -1118,7 +1118,7 @@
               },
               {
                 "name": "Legacy",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "LEG",
                 "rival": ["SWHS"],
                 "rivalryNames": {},
@@ -1127,7 +1127,7 @@
               },
               {
                 "name": "McCollum",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "MCCO",
                 "rival": ["HDHS"],
                 "rivalryNames": {},
@@ -1136,7 +1136,7 @@
               },
               {
                 "name": "Mendina Valley",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "MVHS",
                 "rival": ["DHS"],
                 "rivalryNames": {},
@@ -1145,7 +1145,7 @@
               },
               {
                 "name": "Somerset",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "SHS",
                 "rival": ["SSHS"],
                 "rivalryNames": {},
@@ -1154,7 +1154,7 @@
               },
               {
                 "name": "South San",
-                "state": "Texas",
+                "state": "Georiga",
                 "abbreviation": "SSAN",
                 "rival": ["ECHS"],
                 "rivalryNames": {},
@@ -1163,7 +1163,7 @@
               },
               {
                 "name": "Southside",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "SSHS",
                 "rival": ["SHS"],
                 "rivalryNames": {},
@@ -1172,7 +1172,7 @@
               },
               {
                 "name": "Southwest",
-                "state": "Texas",
+                "state": "Florida",
                 "abbreviation": "SWHS",
                 "rival": ["LEG"],
                 "rivalryNames": {},
